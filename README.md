@@ -1,1 +1,1 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=orangecatindustries&config=[https%3A%2F%2Fraw.githubusercontent.com%2Forangecatindustries%2Forangecatindustries%2Fmain%2Fneofetch.json](https://raw.githubusercontent.com/orangecatindustries/orangecatindustries/refs/heads/main/neofetch.json))
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=orangecatindustries&config=https%3A%2F%2Fraw.githubusercontent.com%2Forangecatindustries%2Forangecatindustries%2Frefs%2Fheads%2Fmain%2Fneofetch.json)
