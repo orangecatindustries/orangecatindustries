@@ -1,1 +1,14 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=orangecatindustries&config=https%3A%2F%2Fraw.githubusercontent.com%2Forangecatindustries%2Forangecatindustries%2Frefs%2Fheads%2Fmain%2Fneofetch.json)
+# Orange Cat Industries 🐈🐈🐈
+
+Hello!! My name is Laurah, I'm a beginner Web Developer & Python Programmer
+I'm currently 16 years old, and I have a loving Orange Cat! His name is Luci :)
+
+## Programs I use to code:
+* VSCode
+* PyCharm
+
+## Current projects:
+* maumakanapa.art - https://maumakanapa.art
+
+## Where you can contact me
+I have no idea
