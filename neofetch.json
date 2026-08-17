@@ -1,0 +1,39 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "IDE", "value": "VSCode, PyCharm" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Hardware", "value": "Building/Fixing/Upgrading Computers" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Website", "value": "https://maumakanapa.art" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
+      "loc"
+    ]
+  }
+}
