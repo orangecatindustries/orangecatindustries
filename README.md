@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;CSS+Enthusiast;Loves+their+cat+Luci+%F0%9F%A7%A1&center=true&width=500&color=F7A072" alt="Typing animation" />
 </p>
 
-<h3 align="center">Hi!! I'm **Laurah** 👋 <br> I'm a beginner Web Developer, and I loooooooooooooooooooove CSS. Like. Too much. <br> Either way, I'm open to contribute whenever possible :) <br>
+<h3 align="center">Hi!! I'm Laurah 👋 <br> I'm a beginner Web Developer, and I loooooooooooooooooooove CSS. Like. Too much. <br> Either way, I'm open to contribute whenever possible :) <br>
 Did you know I also have a loving Orange Cat named Luci? (It's probably obvious..) 🧡</h2>
 
 <h2 align="center"> Languages </h2>
