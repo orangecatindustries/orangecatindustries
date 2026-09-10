@@ -35,4 +35,4 @@ Did you know I also have a loving Orange Cat named Luci? (It's probably obvious.
 
 <h2 align="center"> Contact me! </h2>
 
-<h3 align="center">You can contact me at: midnightmarbusiness@gmail.com</h3>
+<h3 align="center">You can contact me at: laurah@maumakanapa.art</h3>
