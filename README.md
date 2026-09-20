@@ -19,6 +19,7 @@ did you know i also have a loving orange cat named luci? 🧡
 <h3> projects! </h3>
 
 <p>🦊 maumakanapa.art 🦊</p>
+<p>🌨️ uncanny weather. 🌨️</p>
 
 <h3 align="right"> contact me! </h3>
 
