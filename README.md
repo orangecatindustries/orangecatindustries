@@ -5,7 +5,7 @@
 helloo!! i'm laurah :) <br> i'm a beginner web dev, and i loooooooooooooooooooove CSS. like. too much. <br> either way, i'm open to contribute whenever possible :3 <br>
 did you know i also have a loving orange cat named luci? 🧡
 
-<h3 align="right"> languages! </h3>
+<h3 align="right"> stuff i use! </h3>
 
 <p align="right">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
