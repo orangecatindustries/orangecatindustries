@@ -2,7 +2,7 @@
 <p align="right">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=web+developer;css+enthusiast;loves+their+cat+luci+%F0%9F%A7%A1&center=true&width=500&color=F7A072&duration=1500&pause=2500" alt="Typing animation" />
 </p >
-helloo!! i'm laurah :) <br> i'm a beginner web dev, and i loooooooooooooooooooove CSS. like. too much. <br> either way, i'm open to contribute whenever possible :3 <br>
+helloo!! i'm laurah :) <br> i'm a web dev, and i loooooooooooooooooooove CSS. like. too much. <br> either way, i'm open to contribute whenever possible :3 <br>
 did you know i also have a loving orange cat named luci? 🧡
 
 <h3 align="right"> stuff i use! </h3>
@@ -19,6 +19,7 @@ did you know i also have a loving orange cat named luci? 🧡
 <h3> projects! </h3>
 
 <p>🦊 maumakanapa.art 🦊</p>
+<p>🐺 labirhin.art (soon) 🐺</p>
 <p>🌨️ uncanny weather. 🌨️</p>
 
 <h3 align="right"> contact me! </h3>
